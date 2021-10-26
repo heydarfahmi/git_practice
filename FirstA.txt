@@ -1,0 +1,2 @@
+sample file A
+line to commit ammend like "commit --amend --no-edit

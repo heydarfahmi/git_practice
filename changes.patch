@@ -1,0 +1,14 @@
+diff --git a/FileB.txt b/FileB.txt
+new file mode 100644
+index 0000000..0815bbd
+--- /dev/null
++++ b/FileB.txt
+@@ -0,0 +1 @@
++second sample B
+diff --git a/FileC.txt b/FileC.txt
+new file mode 100644
+index 0000000..393d831
+--- /dev/null
++++ b/FileC.txt
+@@ -0,0 +1 @@
++sample file c
